@@ -9,7 +9,7 @@ public class ArrayList1 {
 		ArrayList<String> list =new ArrayList<String>();
 		list.add("saloni");
 		list.add("tejal");
-		list.add("kasim");
+		list.add("kasim2");
 		list.add("pavan");
 		Iterator<String> itr = list.iterator();
 		while(itr.hasNext()) {
